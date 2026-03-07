@@ -105,7 +105,9 @@ Decision Architecture
 Human Judgment
 
 
+For citation and version verification, please refer to the Zenodo DOI archive:
 
+https://doi.org/10.5281/zenodo.18899779
 
 
 
