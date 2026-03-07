@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+title: "Responsibility Drift in AI-Mediated Systems"
+message: "If you use this research, please cite it as follows."
+type: article
+
+authors:
+  - family-names: "Tu"
+    given-names: "Xufen"
+
+affiliation: "Independent Interdisciplinary Researcher"
+
+date-released: 2026-03-06
+version: "v1.0"
+
+repository-code: "https://github.com/xufentu-creator/responsibility-drift-ai-mediated-systems"
+
+abstract: >
+  This research examines responsibility drift in AI-mediated systems and
+  analyzes how responsibility shifts from concentrated to distributed forms
+  under conditions of high replication and complex decision environments.
+
+keywords:
+  - Complex Systems
+  - AI Governance
+  - Decision Architecture
+  - Human Judgment
+  - Responsibility Structures
+
+license: "CC-BY-4.0"
