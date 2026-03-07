@@ -42,3 +42,80 @@ This repository contains the following materials:
 - **Cryptographic provenance record (SHA256 and IPFS references)**
 
 File structure:
+Responsibility-Drift-in-AI-Mediated-Systems_Tu_2026.pdf
+Responsibility-Drift-in-AI-Mediated-Systems_Tu_2026.md
+ABSTRACT.md
+KEYWORDS.md
+CITATION.cff
+LICENSE
+PROVENANCE.md
+
+---
+
+
+## Citation
+
+Citation information is provided in the `CITATION.cff` file.
+
+If referencing this work in academic or research contexts, please cite the author:
+
+Tu, Xufen (2026).  
+*Responsibility Drift in AI-Mediated Systems.*
+
+---
+
+## Research Keywords
+
+Complex Systems  
+AI Governance  
+Decision Architecture  
+Human Judgment  
+Responsibility Structures  
+Automation Boundaries  
+Responsibility Drift  
+Accountability Architecture  
+High-Replication Systems  
+
+---
+
+## License
+
+This research is released under the **Creative Commons Attribution 4.0 International License (CC-BY-4.0)**.
+
+See the `LICENSE` file for details.
+
+---
+
+## Provenance
+
+Cryptographic hashes and IPFS identifiers for repository files are recorded in `PROVENANCE.md` to support long-term research integrity verification and provenance tracking.
+
+---
+
+## Author
+
+**Xufen Tu**  
+Independent Interdisciplinary Researcher  
+
+Research focus:
+
+Complex Systems  
+AI Governance  
+Decision Architecture  
+Human Judgment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
