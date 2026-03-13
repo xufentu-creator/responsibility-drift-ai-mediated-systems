@@ -4,6 +4,9 @@ Author: Xufen Tu
 Affiliation: Independent Interdisciplinary Researcher  
 Research Domains: Complex Systems · AI Governance · Decision Architecture · Human Judgment  
 
+Primary research repository for the study on responsibility drift in AI-mediated systems:
+https://github.com/xufentu-creator/judgment-as-structural-constraint
+
 ---
 
 ## Overview
