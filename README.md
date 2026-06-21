@@ -1,51 +1,30 @@
 # Responsibility Drift in AI-Mediated Systems
 
-Author: Xufen Tu  
-Affiliation: Independent Interdisciplinary Researcher  
-Research Domains: Complex Systems · AI Governance · Decision Architecture · Human Judgment  
+**Xufen Tu**
+Independent Interdisciplinary Researcher
+Complex Systems · AI Governance · Decision Architecture · Human Judgment
 
+Canonical public reference:
+https://xufentu.com
 
-Canonical research repository (sole authoritative reference):
-
-https://github.com/xufentu-creator/judgment-as-structural-constraint
-
----
-
-## Overview
-
-This repository contains the research paper **"Responsibility Drift in AI-Mediated Systems"** authored by Xufen Tu (2026).
-
-The study examines how responsibility shifts within AI-mediated decision environments as systems scale and replicate across complex operational contexts. In highly automated systems, responsibility may gradually drift from identifiable human actors toward distributed and opaque system structures.
-
-This research analyzes responsibility drift as a structural phenomenon emerging from automation, high-replication environments, and complex decision architectures. It proposes a conceptual framework for understanding responsibility distribution and maintaining human judgment stability within AI-governed systems.
+DOI:
+https://doi.org/10.5281/zenodo.18899779
 
 ---
 
-## Research Context
+**Responsibility Drift in AI-Mediated Systems** examines how responsibility becomes fragmented, displaced, or increasingly difficult to identify as AI-mediated systems expand across people, models, platforms, vendors, organizations, and operational environments.
 
-This work contributes to an ongoing research series exploring structural boundaries of human judgment in complex and AI-mediated systems.
+In highly automated and distributed decision systems, responsibility does not always disappear through a single formal transfer. It may shift gradually as more actors, interfaces, recommendations, and automated processes enter the decision pathway. A decision may still produce real consequences even when no individual actor appears to hold complete knowledge, authority, or accountability.
 
-Related research themes include:
+This paper studies responsibility drift as a structural condition associated with automation, high-replication environments, distributed decision-making, and complex organizational systems. It connects this problem to the continuing need for human judgment, visible decision boundaries, provenance, accountability, and correction.
 
-- Human Judgment in Complex Systems  
-- Responsibility Structures in Automated Environments  
-- AI Governance and Accountability  
-- Decision Architecture under High Replication  
-- Structural Stability of Human Oversight  
+The work forms part of Xufen Tu’s broader research on **Human Judgment as Structural Constraint in AI-Mediated Complex Systems**. It contributes to an ongoing examination of how responsibility changes when system momentum, automation speed, and operational complexity increase faster than human review and accountability structures can stabilize.
 
----
+## Public Research Record
 
-## Repository Contents
+This repository preserves the public paper and its supporting academic record, including the PDF and Markdown editions, abstract, citation metadata, license information, and file-integrity references.
 
-This repository contains the following materials:
-
-- **PDF version of the research paper**
-- **Markdown source version of the paper**
-- **Abstract and research keywords**
-- **Citation metadata**
-- **License information**
-- **Cryptographic provenance record (hash-based integrity references)**
-File structure:
+```text
 Responsibility-Drift-in-AI-Mediated-Systems_Tu_2026.pdf
 Responsibility-Drift-in-AI-Mediated-Systems_Tu_2026.md
 ABSTRACT.md
@@ -53,74 +32,47 @@ KEYWORDS.md
 CITATION.cff
 LICENSE
 PROVENANCE.md
+```
 
----
-
+The public materials present the paper, conceptual position, and citable research record. Detailed analytical methods, validation tools, scoring logic, implementation structures, and applied materials are maintained privately.
 
 ## Citation
 
-Citation information is provided in the `CITATION.cff` file.
+Preferred citation:
 
-If referencing this work in academic or research contexts, please cite the author:
+> Tu, Xufen. (2026). *Responsibility Drift in AI-Mediated Systems*. https://doi.org/10.5281/zenodo.18899779
 
-Tu, Xufen (2026).  
-*Responsibility Drift in AI-Mediated Systems.*
+Additional citation metadata is available in `CITATION.cff`.
 
----
-
-## Research Keywords
-
-Complex Systems  
-AI Governance  
-Decision Architecture  
-Human Judgment  
-Responsibility Structures  
-Automation Boundaries  
-Responsibility Drift  
-Accountability Architecture  
-High-Replication Systems  
-
----
-
-## License
-
-This research is released under the **Creative Commons Attribution 4.0 International License (CC-BY-4.0)**.
-
-See the `LICENSE` file for details.
-
----
+Public references should preserve the author name, paper title, publication year, DOI, and canonical public reference.
 
 ## Provenance
 
-Cryptographic hashes and IPFS identifiers for repository files are recorded in `PROVENANCE.md` to support long-term research integrity verification and provenance tracking.
+File-integrity records and archival identifiers are maintained in `PROVENANCE.md` to support verification of the published research record.
 
----
+These records support authorship continuity and file verification. They do not replace the DOI, citation metadata, or canonical public website.
+
+Canonical public reference:
+https://xufentu.com
 
 ## Author
 
-**Xufen Tu**  
-Independent Interdisciplinary Researcher  
+**Xufen Tu（涂绪芬）**
+Independent Interdisciplinary Researcher
 
-Research focus:
+Research focus: Human Judgment · AI Governance · Complex Systems · Decision Architecture · Responsibility Drift
 
-Complex Systems  
-AI Governance  
-Decision Architecture  
-Human Judgment
+ORCID:
+https://orcid.org/0009-0007-5265-964X
 
+Google Scholar:
+https://scholar.google.com/citations?user=NseOI0QAAAAJ
 
-For archival and indexing purposes, this work is also registered in external repositories.
-https://doi.org/10.5281/zenodo.18899779
+Research contact:
+[xufentu@gmail.com](mailto:xufentu@gmail.com)
 
+## License
 
+The public research materials in this repository are released under the **Creative Commons Attribution 4.0 International License**, unless an individual file states otherwise.
 
-
-
-
-
-
-
-
-
-
-
+See `LICENSE` for the applicable terms.
